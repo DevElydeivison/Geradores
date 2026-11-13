@@ -54,3 +54,13 @@ LICENSE
 ## Ideias para evolução
 
 Histórico local opcional, exportação CSV/JSON, testes unitários, filtros de região, tema claro/escuro e geração em lote de perfis.
+
+
+## Divulgação do autor
+
+- [GitHub — repositório do projeto](https://github.com/DevElydeivison/Geradores)
+- [LinkedIn — desenvolvedor](https://www.linkedin.com/in/elydeivisoncesar/)
+
+## Versão 2
+
+Interface com tema claro, cards brancos, contraste revisado e links para GitHub e LinkedIn no cabeçalho, destaque, seção sobre e rodapé.
