@@ -12,7 +12,7 @@
 ![Responsivo](https://img.shields.io/badge/Layout-Responsivo-3867E8)
 ![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-64748B)
 
-[**Repositório**](https://github.com/DevElydeivison/Geradores) · [**LinkedIn do desenvolvedor**](https://www.linkedin.com/in/elydeivisoncesar/)
+[**Repositório**](https://github.com/DevElydeivison/Geradores) · [**LinkedIn**](https://www.linkedin.com/in/elydeivisoncesar/)
 
 </div>
 
